@@ -1,4 +1,4 @@
-### Interactive Bézier Curve with Physics
+# Interactive Bézier Curve with Physics
 This project implements a cubic Bézier curve that behaves like a rope using spring-damping physics and real-time mouse input.
 
 ## Features
